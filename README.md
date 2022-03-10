@@ -1,4 +1,9 @@
-### Exploratory data analysis
+# Exploratory data analysis
+<hr>
+Aim of the project was to determine regions and products where a business is making loss and to visualize its performance using BI dashboard.
+Power BI was used in the project
 
-This repository contains the given csv file. I have converted the csv format into xlsxformat, the data range was converted to table on which filter is applied on the profit column to get the rows where the business has made losses.
-There is also a superStoreDashboard.pbix file which is a power bi file containing the dashboard representing the dataset.
+
+### Output
+<hr>
+![EDA](https://user-images.githubusercontent.com/65243431/157701697-e10807cc-63f8-424a-926a-0b50b3fd791d.png)
